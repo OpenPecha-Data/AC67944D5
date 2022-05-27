@@ -1,0 +1,28 @@
+segment_sources:
+  I99BCEC1D:
+    type: origin_type
+    relation: translation
+    language: sa
+  I88DE848D:
+    type: origin_type
+    relation: translation
+    language: zh
+  IA2DAE5D2:
+    type: origin_type
+    relation: translation
+    language: bo
+  IE9BCB1E9:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  58f38cf75d2049e0b5b01a8803c42cc8:
+    I99BCEC1D: 62d713f410e84b40ae74111be2ca3b1b
+    I88DE848D: 38dd0296bf12460a8655aadf9762333d
+    IA2DAE5D2: ebbfd893f29242918ed0a37be67c5acd
+    IE9BCB1E9: d30f73e7f14b46668623537db3be1c0b
+  786fdf0a399e4459a83bc92b3bd21b27:
+    I99BCEC1D: 1624b4d736bd467ca117e01f4c33fb1c
+    I88DE848D: b8ab2990af494a59a0b8bc6c16cb80d5
+    IA2DAE5D2: 1dc0196a7bf14b729a110903c153b280
+    IE9BCB1E9: 00b39c6ca60d4e7083309041bfe52d6e
